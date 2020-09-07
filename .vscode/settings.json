@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.configuration.maven.userSettings": "D:\\repository-maven\\settings.xml",
+    "java.home": "D:\\Java\\jdk1.8.0_231",
+    "maven.excludedFolders": [
+
+        "**/.*",
+        "**/node_modules",
+        "**/target",
+        "**/bin"
+    ]
+}
