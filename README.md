@@ -13,8 +13,8 @@
 | axios      |
 | lodash     |
 | elementui  |
-| ...        |
-|            |
+| vuex       |
+|  ...       |
 
 ## Project setup
 
