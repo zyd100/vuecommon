@@ -9,6 +9,7 @@ import _ from 'lodash';
 import VueI18n from 'vue-i18n';
 import {initLang} from './util/langUtil';
 import api from './api';
+import store from './store'
 
 Vue.config.productionTip = false
 
@@ -25,5 +26,6 @@ new Vue({
   router,
   i18n,
   cookie,
+  store,
   render: h => h(App)
 }).$mount('#app')
